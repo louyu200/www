@@ -1,0 +1,294 @@
+Array
+(
+    [ehtype] => 0
+    [ehtimelist] => 
+    [ehexam] => s2
+    [ehexamid] => 1679091c5a880faf6fb5e6087eb1b2dc
+    [ehbasicid] => 2
+    [ehquestion] => Array
+        (
+            [questionids] => Array
+                (
+                    [question] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [0] => 9101
+                                    [1] => 9102
+                                )
+
+                            [3] => Array
+                                (
+                                    [0] => 9108
+                                    [1] => 9110
+                                )
+
+                            [2] => Array
+                                (
+                                    [0] => 9091
+                                    [1] => 9092
+                                )
+
+                        )
+
+                    [questionrow] => 
+                )
+
+            [questions] => Array
+                (
+                    [1] => Array
+                        (
+                            [9101] => Array
+                                (
+                                    [questionid] => 9101
+                                    [questiontype] => 1
+                                    [question] => 个人结售汇非现监管主要包括（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => A. 个人结售汇总体情况及变化趋势   B. 个人结售汇异常可疑情况   C. 银行办理个人结售汇以及与之相关的个人跨境外汇收支、境内划转、存取外币现钞、个人外汇账户等业务合规情况   D. 以上都是
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => D
+                                    [questiondescribe] => 题目解析
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 6
+                                                    [knows] => 外管考试
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1470408570
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 0
+                                )
+
+                            [9102] => Array
+                                (
+                                    [questionid] => 9102
+                                    [questiontype] => 1
+                                    [question] => 以下情况中，应当纳入个人结售汇系统的是（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => A. 外币卡境内消费结汇   B. 境内卡境外使用购汇还款   C. 境外卡通过自助银行设备提取人民币现钞   D. 通过网上银行办理的金额小于等值100美元的购汇
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => D
+                                    [questiondescribe] => 题目解析
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 6
+                                                    [knows] => 外管考试
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1470408570
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 0
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [9108] => Array
+                                (
+                                    [questionid] => 9108
+                                    [questiontype] => 3
+                                    [question] => 对于银行汇路不畅的经常项目交易，境内机构可以收取外币现钞，并存入经办银行转为现汇：
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => A．对    B．错
+                                    [questionselectnumber] => 2
+                                    [questionanswer] => B
+                                    [questiondescribe] => 题目解析
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 6
+                                                    [knows] => 外管考试
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1470408591
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 0
+                                )
+
+                            [9110] => Array
+                                (
+                                    [questionid] => 9110
+                                    [questiontype] => 3
+                                    [question] => 出口收结汇待核查帐户资金不得与其他外汇帐户之间随意划转，但不同待核查帐户之间的资金可以划转。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => A．对    B．错
+                                    [questionselectnumber] => 2
+                                    [questionanswer] => B
+                                    [questiondescribe] => 题目解析
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 6
+                                                    [knows] => 外管考试
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1470408591
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 0
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [9091] => Array
+                                (
+                                    [questionid] => 9091
+                                    [questiontype] => 2
+                                    [question] => 目前不属于全国组织机构代码管理中心赋予正式组织机构代码范围的、确因办理收支业务需要统一标识的申报机构，包括（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => A. 军队、武警   B. 驻华使领馆和国际组织驻华机构   C. NRA账户   D. 境外驻华办事处、代表处
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => ABC
+                                    [questiondescribe] => 题目解析
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 6
+                                                    [knows] => 外管考试
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1470406381
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 0
+                                )
+
+                            [9092] => Array
+                                (
+                                    [questionid] => 9092
+                                    [questiontype] => 2
+                                    [question] => 境内非居民通过境内银行与境外所发生收付款（包括外汇和人民币），以下操作正确的是（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => A. 需办理国际收支间接申报   B. 交易对方名称标注“（JN）”字样   C. 按实际交易性质选择交易编码并填写交易附言   D. 交易编码为822030”，交易附言：非居民从境外收款”或“非居民向境外付款
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => AD
+                                    [questiondescribe] => 题目解析
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 6
+                                                    [knows] => 外管考试
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1470406381
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 0
+                                )
+
+                        )
+
+                )
+
+            [questionrows] => Array
+                (
+                )
+
+        )
+
+    [ehsetting] => Array
+        (
+            [sectionid] => 3
+            [knowsid] => 6
+            [title] => s2
+            [time] => 60
+            [number] => Array
+                (
+                    [1] => 2
+                    [3] => 2
+                    [2] => 2
+                    [6] => 
+                    [4] => 
+                    [5] => 
+                )
+
+        )
+
+    [ehuseranswer] => Array
+        (
+            [9101] => B
+            [9102] => C
+            [9091] => Array
+                (
+                    [0] => A
+                    [1] => B
+                )
+
+            [9092] => Array
+                (
+                    [1] => B
+                    [2] => C
+                )
+
+            [9108] => A
+            [9110] => B
+        )
+
+    [ehstarttime] => 1470441504
+    [ehtime] => 29
+    [ehscore] => 16.7
+    [ehscorelist] => Array
+        (
+            [9101] => 0
+            [9102] => 0
+            [9108] => 0
+            [9110] => 1
+            [9091] => 0
+            [9092] => 0
+        )
+
+    [ehuserid] => 9
+    [ehusername] => test0
+    [ehdecide] => 0
+    [ehstatus] => 1
+)

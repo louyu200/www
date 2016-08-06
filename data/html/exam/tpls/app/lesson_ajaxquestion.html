@@ -1,0 +1,75 @@
+			<form id="form1" name="form1" action="index.php?exam-app-lesson-ajax-questions">
+                                <div id="questionrow_2">
+					<div class="media well">
+						<ul class="nav nav-tabs">
+							<li class="active">
+								<span class="badge badge-info questionindex">1</span>
+							</li>
+						</ul>
+						<div class="media-body well">
+							<p>insertquestion</p>						</div>
+																																				<div class="paperexamcontent_8451">
+							<ul class="nav nav-tabs">
+								<li class="active">
+									<span class="badge questionindex">1</span>
+								</li>
+								<li class="btn-group pull-right">
+									<button class="btn" type="button" onclick="javascript:favorquestion('8451');"><em class="icon-heart" title="收藏"></em></button>
+								</li>
+							</ul>
+							<div class="media-body well text-warning">
+								<a name="qrchild_8451"></a><p>测试填空子题</p>							</div>
+																					<div class="media-body well">
+		                    	<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>		                    </div>
+		                    							<div class="media-body well questionanswerbox">
+		                    				                        			                        			                        <label class="radio inline"><input type="radio" name="question[8451]" rel="8451" value="A" />A </label>
+			                        			                        			                        <label class="radio inline"><input type="radio" name="question[8451]" rel="8451" value="B" />B </label>
+			                        			                        			                        <label class="radio inline"><input type="radio" name="question[8451]" rel="8451" value="C" />C </label>
+			                        			                        			                        <label class="radio inline"><input type="radio" name="question[8451]" rel="8451" value="D" />D </label>
+			                        			                        			                        		                        		                    </div>
+														<div class="media-body well">
+								<div class="btn-group pull-right hide answerbox">
+				            							            						            						            							            															            	</div>
+				            	<div class="btn-group pull-right">
+				            		<a class="btn questionbtn" href="javascript:;" onclick="javascript:$('.paperexamcontent_8451').find('.questionbtn').addClass('hide');$('.paperexamcontent_8451').find('.answerbox').removeClass('hide');" title="查看答案">查看答案</a>
+				            	</div>
+			            	</div>
+			            	<div id="rightanswer_8451" class="hide">D</div>
+							<div class="media-body well answerbox hide">
+								<h5>答案</h5>
+								D							</div>
+							<div class="media-body well answerbox hide">
+								<h5>解析</h5>
+								<p>子题</p>							</div>
+						</div>
+											</div>
+				</div>
+							</form>
+			<script type="text/javascript">
+				$("input:radio").click(function(){
+					var _this = $(this);
+					var qid = _this.attr('rel');
+					if(_this.val() == $("#rightanswer_"+qid).html())
+					{
+						_this.parents('.media-body').addClass('alert-success').addClass('alert').html('恭喜您回答正确！');
+					}
+					else
+					{
+						_this.parents('.media-body').addClass('alert-error').addClass('alert').html('回答错误，正确答案为：'+$("#rightanswer_"+qid).html()+'，您选择的答案是：'+_this.val());
+					}
+					$('.questionbtn').addClass('hide');
+					$('.answerbox').removeClass('hide');
+				});
+			</script>
